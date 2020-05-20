@@ -4,7 +4,8 @@ title: Seconde
 ---
 Fichier seconde.md
 
-[Aller au chapitre 1](#Chap1)
+[Chapitre 1](#Chap1)  
+[Chapitre 2](#Chap2)  
 fdfdf  
 dfdfd  
 dfdfd  
@@ -48,3 +49,5 @@ dfdfd
 dfdfdfd  
 dgdgdg  
 dggdg
+
+## Chapitre 2 {#Chap2}  
