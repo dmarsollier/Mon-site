@@ -32,6 +32,7 @@ dfdfd
 dfdfdfd  
 dgdgdg  
 dggdg
+
 ## Chapitre 1 {#Chap1}
 
 [Fichier chute libre](https://nbviewer.jupyter.org/github/dmarsollier/MOOC-physique-preparation-enseignement-superieur-python-nb-master/blob/master/mecanique/chute-libre-miniMOOC.ipynb){:target="_blank" }
@@ -47,4 +48,3 @@ dfdfd
 dfdfdfd  
 dgdgdg  
 dggdg
-
