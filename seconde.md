@@ -4,7 +4,6 @@ title: Seconde
 ---
 
 ## Sommaire
-
 {: .no_toc}
 
 * TOC
@@ -30,6 +29,14 @@ dgdgdg
 dggdg
 
 ## Chapitre 2 {#Chap2}
+
+### 1. Partie une
+
+ dfdfd
+
+### 2. Partie deux
+
+fdfd
 
 [1nbviewer]: https://nbviewer.jupyter.org/github/dmarsollier/MOOC-physique-preparation-enseignement-superieur-python-nb-master/blob/master/mecanique/chute-libre-miniMOOC.ipynb
 [1binder]: https://mybinder.org/v2/gh/dmarsollier/MOOC-physique-preparation-enseignement-superieur-python-nb-master/master?filepath=mecanique%2Fchute-libre-miniMOOC.ipynb
