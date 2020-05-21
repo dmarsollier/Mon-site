@@ -3,8 +3,8 @@ layout: page
 title: Seconde
 ---
 
-## Sommaire  
-{:.no_toc}
+## Sommaire
+{: .no_toc}
 
 * TOC
 {:toc}
