@@ -50,6 +50,7 @@ minima:
 header_pages:
  - about.md
  - seconde.md
+ - TSTL.md
  - premiere-STI2D.md
  - terminal-S.md
 
